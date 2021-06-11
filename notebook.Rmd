@@ -36,15 +36,3 @@ annual_gr = percentage_gr / (2000 - 1950)
 calculate_annual_growth(1927, 2017, 691000, 15029231, "Istanbul, Turkey" )
 
 ```
-
-
-
-
-
-
-
-
-
-
-
-
